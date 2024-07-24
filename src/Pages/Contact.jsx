@@ -18,14 +18,14 @@ function Contact() {
                 years of experience.
               </p>
               <a href="/">
-                <IconPhone /> &nbsp; (123) 456-7869
+                <IconPhone /> &nbsp; +91 7742911231
               </a>
               <a href="/">
-                <IconMail /> &nbsp; carrental@carmail.com
+                <IconMail /> &nbsp; carrental@gmail.com
               </a>
               <a href="/">
                 <IconLocation />
-                &nbsp; Belgrade, Serbia
+                &nbsp; Aapke dil main, Haan meri jaan
               </a>
             </div>
             <div className="contact-div__form">
@@ -33,12 +33,12 @@ function Contact() {
                 <label>
                   Full Name <b>*</b>
                 </label>
-                <input type="text" placeholder='E.g: "Joe Shmoe"'></input>
+                <input type="text" placeholder='E.g: "Joe Mama"'></input>
 
                 <label>
                   Email <b>*</b>
                 </label>
-                <input type="email" placeholder="youremail@example.com"></input>
+                <input type="email" placeholder="email@example.com"></input>
 
                 <label>
                   Tell us about it <b>*</b>
